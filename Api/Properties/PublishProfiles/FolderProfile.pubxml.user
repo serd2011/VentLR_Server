@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\repos\inst\mag\sem3\EmbeddedSystemProgramming\Server\export</_PublishTargetUrl>
+    <History>False|2023-10-18T11:26:21.1238098Z;True|2023-10-18T14:24:30.5501752+03:00;True|2023-10-18T14:18:02.7840219+03:00;True|2023-10-18T14:03:28.1246780+03:00;True|2023-10-18T13:53:35.5635928+03:00;True|2023-10-18T13:48:06.1757524+03:00;True|2023-10-18T13:37:52.1901265+03:00;True|2023-10-18T13:33:50.2722172+03:00;True|2023-10-18T13:30:33.3215484+03:00;True|2023-10-18T13:25:54.7439180+03:00;True|2023-10-18T13:21:32.6672430+03:00;True|2023-10-18T13:10:12.7841203+03:00;True|2023-10-18T06:13:56.2320876+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
